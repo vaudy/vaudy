@@ -7,15 +7,12 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript)
 ![Jest](https://img.shields.io/badge/-JEst-C21325?&logo=Jest)
 
-### Frameworks
+### Frameworks & Libraries
 
 ![Lit](https://img.shields.io/badge/-Lit-324FFF?&logo=Lit)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
-
-### Libraries
-
 ![Three.js](https://img.shields.io/badge/-Three.js-000?&logo=Three.js)
 ![GSAP](https://img.shields.io/badge/-GSAP-000?&logo=GSAP)
 ![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
