@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vaudy&theme=catppuccin-mocha&hide_border=true&border_radius=0&mode=weekly)
-
 ### Languages
 
 ![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript)
