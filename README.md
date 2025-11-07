@@ -10,11 +10,12 @@
 ![Lit](https://img.shields.io/badge/-Lit-324FFF?&logo=Lit)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
-![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
-![Drizzle](https://img.shields.io/badge/-Drizzle-000?&logo=Drizzle)
 ![Three.js](https://img.shields.io/badge/-Three.js-000?&logo=Three.js)
 ![GSAP](https://img.shields.io/badge/-GSAP-000?&logo=GSAP)
 ![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
+
+![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
+![Drizzle](https://img.shields.io/badge/-Drizzle-000?&logo=Drizzle)
 
 ### CI
 ![Hostinger](https://img.shields.io/badge/-Hostinger-673DE6?&logo=Hostinger)
