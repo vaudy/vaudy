@@ -3,7 +3,6 @@
 ### Languages
 
 ![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript)
-![Jest](https://img.shields.io/badge/-JEst-C21325?&logo=Jest)
 
 ### Frameworks & Libraries
 
@@ -13,6 +12,7 @@
 ![Three.js](https://img.shields.io/badge/-Three.js-000?&logo=Three.js)
 ![GSAP](https://img.shields.io/badge/-GSAP-000?&logo=GSAP)
 ![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
+![Jest](https://img.shields.io/badge/-JEst-C21325?&logo=Jest)
 
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![Drizzle](https://img.shields.io/badge/-Drizzle-000?&logo=Drizzle)
