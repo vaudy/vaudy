@@ -14,7 +14,7 @@
 ![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
 ![Jest](https://img.shields.io/badge/-JEst-C21325?&logo=Jest)
 
-![Node.js](https://img.shields.io/badge/-Express-000?&logo=NodeJS)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![Drizzle](https://img.shields.io/badge/-Drizzle-000?&logo=Drizzle)
 
